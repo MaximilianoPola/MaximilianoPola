@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Maximiliano</h1>
-<h3 align="center">A passionate frontend developer from Argentina</h3>
+<h3 align="center">A passionate full stack developer from Argentina</h3>
 
 - 🔭 I’m currently working on [eVins](https://github.com/NachoGollan/Grupo_2_eVins)
 
 - 📫 How to reach me **maxipola95@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
     <p align="left">
     <a href="https://linkedin.com/in/maximilianopola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maximilianopola" height="30" width="40" /></a>
